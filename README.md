@@ -2,7 +2,7 @@
   <img src="https://your-image-url.com/your-logo.png" alt="Full Stack Developer Interview Questions" width="300">
 </p>
 
-# Full Stack Developer Interview Questions (PHP | JavaScript | MySQL)
+# Full Stack PHP Developer Interview Questions and Answers
 
 Welcome to the Full Stack Developer Interview Questions repository, with a special emphasis on PHP, JavaScript, and MySQL. Whether you're a seasoned developer or just starting your journey, this resource is designed to help you prepare for interviews and enhance your Full Stack skills. Dive in and explore a wealth of questions and answers tailored to the following areas:
 
