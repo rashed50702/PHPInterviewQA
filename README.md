@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="php_logo.png" alt="PHP Logo" width="100" height="100">
+  <img src="[php_logo.png](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)" alt="PHP Logo" width="100" height="100">
 </p>
 
 # <p align="center">PHPInterviewQA</p>
